@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Lugares>
+  <Lugar>
+    <ID>1</ID>
+    <Nombre>Cerro los amoles....</Nombre>
+    <Direccion>etgerg</Direccion>
+    <Descripcion>gfshdfh</Descripcion>
+  </Lugar>
+  <Lugar>
+    <ID>2</ID>
+    <Nombre>15</Nombre>
+    <Direccion>15</Direccion>
+    <Descripcion>15</Descripcion>
+  </Lugar>
+  <Lugar>
+    <ID>3</ID>
+    <Nombre>Zoologico</Nombre>
+    <Direccion>Av. zoologico</Direccion>
+    <Descripcion>Areas verdes para convivir en familia</Descripcion>
+  </Lugar>
+  <Lugar>
+    <ID>4</ID>
+    <Nombre>Laguna cepio</Nombre>
+    <Direccion>Cepio</Direccion>
+    <Descripcion>Ambiente tranquilo</Descripcion>
+  </Lugar>
+</Lugares>
